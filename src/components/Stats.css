@@ -1,0 +1,14 @@
+.stats {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    padding: 50px;
+  }
+  
+  .stat-card {
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    min-width: 180px;
+  }
